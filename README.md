@@ -1,7 +1,7 @@
 var Olivier = [
-"Currently making plugins for RPG Maker MV", 
+"Currently Doing Nothing", 
 15, 
-"Godot", 
+"Love2D", 
 "Also doing my GCSEs >:(" 
 ];
 <!---
