@@ -1,4 +1,4 @@
-var Olivier = [
+var Olivia = [
 "Currently Doing Nothing", 
 15, 
 "Love2D", 
