@@ -2,7 +2,7 @@ var Olivia = [
 "Currently Doing Nothing", 
 15, 
 "Love2D", 
-"Also doing my GCSEs >:(" 
+"Also doing my GCSEs >:(" \n 
 ];
 <!---
 Coneruu/Coneruu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
